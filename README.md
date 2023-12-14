@@ -6,13 +6,12 @@
 Sou um Desenvolvedor Web e tenho muita curiosidade na área de Tecnologia, estou sempre em busca de aprimorar meus conhecimentos e ter muitas experiências. Sou organizado, persistente e sempre disposto a ajudar e a aprender algo novo. 
 </p>
 
-- Main language: <img align="center" alt="Caua-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
+- Main language: [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   ######
-- Frontend: <img align="center" alt="Caua-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" Title="HTML 5"> <img align="center" alt="Caua-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" Title="CSS 3"> <img align="center" alt="Caua-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript"> <img align="center" alt="Caua-Ts" height="30" width="40" src="https://skillicons.dev/icons?i=ts" Title="TypeScript"> <img align="center" alt="Caua-react" height="30" width="40" src="https://skillicons.dev/icons?i=react" Title="React.js"> <img align="center" alt="Caua-Styled Components" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents" Title="Styled Components">
+- Frontend: [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   ######
-- Backend: <img align="center" alt="Caua-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js"> <img align="center" alt="Caua-express" height="30" width="40" src="https://skillicons.dev/icons?i=express" Title="express"> <img align="center" alt="Caua-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite" Title="sqlite">
+- Backend: [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   ######
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
   
 
