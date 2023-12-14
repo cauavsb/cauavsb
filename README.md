@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Cauã Vinícius</h1>
 
-<img src="https://static.vecteezy.com/system/resources/previews/011/153/365/non_2x/3d-web-developer-working-on-project-illustration-png.png" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
+<img src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-programacao_114360-1351.jpg" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
 
 <p align="left"> 
 Sou um Desenvolvedor Web e tenho muita curiosidade na área de Tecnologia, estou sempre em busca de aprimorar meus conhecimentos e ter muitas experiências. Sou organizado, persistente e sempre disposto a ajudar e a aprender algo novo. 
