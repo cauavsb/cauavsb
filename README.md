@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I'm Cauã Vinícius</h1>
+<h1 align="center">Hi, I'm Cauã Vinícius</h1>
 
 <img src="https://user-images.githubusercontent.com/87456011/214689477-57dfc8d7-c470-4735-b9ff-5526802ce5f1.png" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
 
