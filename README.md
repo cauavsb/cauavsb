@@ -3,7 +3,7 @@
 <img src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-programacao_114360-1351.jpg" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
 
 <p align="left"> 
-Sou um Desenvolvedor Web e tenho muita curiosidade na área de Tecnologia, estou sempre em busca de aprimorar meus conhecimentos e ter muitas experiências. Sou organizado, persistente e sempre disposto a ajudar e a aprender algo novo. 
+Sou um Desenvolvedor Web apaixonado por tecnologia, sempre em busca de aprimoramento e novas experiências. Minha vida é marcada pela organização, persistência e disposição para aprender e ajudar. Encaro cada desafio como uma oportunidade de crescimento, contribuindo com soluções inovadoras. Estou comprometido com a aprendizagem contínua e entusiasmado com as possibilidades que o futuro na área de tecnologia reserva.
 </p>
 
 - Main language: <img align="center" alt="JavaScript" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
