@@ -6,12 +6,13 @@
 Sou um Desenvolvedor Web e tenho muita curiosidade na área de Tecnologia, estou sempre em busca de aprimorar meus conhecimentos e ter muitas experiências. Sou organizado, persistente e sempre disposto a ajudar e a aprender algo novo. 
 </p>
 
-- Main language: [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- Main language: <img align="center" alt="JavaScript" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
   ######
-- Frontend: [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- Frontend: <img align="center" alt="HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" Title="HTML"> <img align="center" alt="CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" Title="CSS"> <img align="center" alt="JavaScript" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
   ######
-- Backend: [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- Backend: <img align="center" alt="NodeJs" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="NodeJs"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://skillicons.dev/icons?i=postgres" Title="PostgreSQL">
   ######
+- I like too: <img align="center" alt="Java" height="30" width="40" src="https://skillicons.dev/icons?i=java" Title="Java"> <img align="center" alt="Python" height="30" width="40" src="https://skillicons.dev/icons?i=py" Title="Python"> 
 
   
 
